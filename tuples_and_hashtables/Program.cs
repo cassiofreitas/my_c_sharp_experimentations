@@ -1,4 +1,6 @@
-﻿namespace tuples_and_hashtables
+﻿using System.Collections;
+
+namespace tuples_and_hashtables
 {
     internal class Program
     {
@@ -18,9 +20,11 @@
 
             //
             // 24/06/2022 - cassiofreitas - begin
+            // Tuple to store a key and a value
             Tuple<string, string, decimal> moedas = Tuple.Create("20220623", "BRLGBP", 0.1576m);
-            Console.WriteLine("Data: {0}, Par: {1}, Cotacao: {2:C5}", moedas.Item1, moedas.Item2, moedas.Item3);
+            Console.WriteLine("3-Tuple with data: {0}, Par: {1}, Cotacao: {2:C5}", moedas.Item1, moedas.Item2, moedas.Item3);
             //
+            //Imagined model do coins
             //20220623|BRLGBP|0.1576
             //20220623|BRLEUR|0.1837
             //20220623|BRLJPY|25,9875
@@ -28,11 +32,11 @@
             //
             Hashtable coins = new Hashtable();
             coins.Add(String.Concat("20220623", "BRLUSD"), 0.1929m);
+            coins.Add(String.Concat("20220623", "BRLGBP"), 0.2929m);
             Console.WriteLine(coins[String.Concat("20220623", "BRLUSD")]);
             Console.WriteLine("\n\n\n");
             // 24/06/2022 - cassiofreitas - end
             //
-
         }
     }
 }
