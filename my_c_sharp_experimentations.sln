@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pre_pos_incremento", "pre_pos_incremento\pre_pos_incremento.csproj", "{6497EF11-5533-42A0-ABB7-476C7136D08C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuples_and_hashtables", "tuples_and_hashtables\tuples_and_hashtables.csproj", "{B0522F3A-1FA3-40BC-825F-D8B6DE6E351E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "writeline_and_readline", "writeline_and_readline\writeline_and_readline.csproj", "{EEF69B00-FFF8-4A30-8828-56ACBCA41CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6497EF11-5533-42A0-ABB7-476C7136D08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6497EF11-5533-42A0-ABB7-476C7136D08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6497EF11-5533-42A0-ABB7-476C7136D08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0522F3A-1FA3-40BC-825F-D8B6DE6E351E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0522F3A-1FA3-40BC-825F-D8B6DE6E351E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0522F3A-1FA3-40BC-825F-D8B6DE6E351E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0522F3A-1FA3-40BC-825F-D8B6DE6E351E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF69B00-FFF8-4A30-8828-56ACBCA41CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF69B00-FFF8-4A30-8828-56ACBCA41CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF69B00-FFF8-4A30-8828-56ACBCA41CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF69B00-FFF8-4A30-8828-56ACBCA41CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
