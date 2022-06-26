@@ -5,8 +5,8 @@ namespace ConversorMoedas
 {
     internal class DataSource
     {
-        private Hashtable coinsTradePairs = new Hashtable();
-        private List<Moedas> supportedCoins = new List<Moedas>();
+        private static readonly Dictionary<string,decimal> coinsTradePairs = new Dictionary<string,decimal>();
+        private static readonly List<Moedas> supportedCoins = new List<Moedas>();
         public void InitialDataLoad()                       //Simulates starting a full data load from external sources
         {
             PopulateSupportedCoinsList();
@@ -29,7 +29,20 @@ namespace ConversorMoedas
             supportedCoins.Add(new Moedas(790, "LIBRA ESTERLINA", "GBP", 0, "-", "B"));
             supportedCoins.Add(new Moedas(220, "DOLAR DOS EUA", "USD", 0, "-", "A"));
             supportedCoins.Add(new Moedas(978, "EURO", "EUR", 0, "-", "B"));
-        }        
+        }
+        public decimal SearchTradePairs(string keyToSearch)
+        {
+            decimal valueOfKeySearched;
+
+            if (keyToSearch != null && coinsTradePairs.TryGetValue(keyToSearch, out valueOfKeySearched))
+            {
+                return valueOfKeySearched;
+            } else
+            {
+                return -1;
+            }
+        }
+
         private void PopulateCoinsTradePairs()               //Simulates a load from an external source
         {
             coinsTradePairs.Add(String.Concat("20220601", "BRLUSD"), 4.7765m);
