@@ -8,7 +8,7 @@ Experiences with some parts of C# and .NET to learn new things and to understand
   - `Still needs error checking and code cleaning`
 - [pre_pos_incremento](./pre_pos_incremento)
   - `Working as expected` 
-- [tupels_and_hashtables](./tuples_and_hashtables)
+- [tuples_and_hashtables](./tuples_and_hashtables)
   - `in progress` 
 - [writeline_and_readline](./writeline_and_readline)
   - `in progress` 
