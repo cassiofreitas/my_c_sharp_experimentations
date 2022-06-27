@@ -42,7 +42,6 @@ namespace ConversorMoedas
                 return -1;
             }
         }
-
         private void PopulateCoinsTradePairs()               //Simulates a load from an external source
         {
             coinsTradePairs.Add(String.Concat("20220601", "BRLUSD"), 4.7765m);
