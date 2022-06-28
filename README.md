@@ -3,6 +3,8 @@
 Experiences with some parts of C# and .NET to learn new things and to understand how they work.
 
 ## Experimentations
+- [BankAccount](./BankAccount)
+  - `OOP C# pratice, using MS C# and .NET learning examples.`
 - [Conversor de Moedas](./ConversorMoedas)
   - `First alpha version working OK in production`
   - `Still needs error checking and code cleaning`
