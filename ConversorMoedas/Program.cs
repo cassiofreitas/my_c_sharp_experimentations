@@ -25,7 +25,7 @@ namespace ConversorMoedas
             do
             {
                 Console.Clear();
-                //Console.Beep();
+                Console.Beep();
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 //      
                 Console.WriteLine(ConversorNow.ListConversionToStack(3));
