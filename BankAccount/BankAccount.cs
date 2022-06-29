@@ -58,7 +58,8 @@ public class BankAccount
     }
     public string GetAccountHistory()
     {
-        var report = new System.Text.StringBuilder();   // great example of using the whole namespace
+        // Great example of using the whole namespace
+        var report = new System.Text.StringBuilder();
 
         decimal balance = 0;
         report.AppendLine("Date\t\tAmount\tBalance\tNote");
