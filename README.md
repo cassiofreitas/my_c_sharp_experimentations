@@ -20,3 +20,6 @@ Experiences with some parts of C# and .NET to learn new things and to understand
 [![image](https://user-images.githubusercontent.com/81485964/175793780-54001342-71a0-498b-bdc0-2d8390b4f332.png)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
 
 -------------------------------------
+
+## Hey, were are you? :-)
+[Massa de tomate](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/1-introduction)
