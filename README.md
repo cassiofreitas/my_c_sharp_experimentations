@@ -1,8 +1,12 @@
-# my_c_sharp_experimentations
+# MICROSOFT experience
 
-Experiences with some parts of C# and .NET to learn new things and to understand how they work.
+Here is where I register all my Microsoft projects.
 
-## Experimentations
+Everything that I study and learn, related do Microsoft technology is here.
+
+--------------
+
+## My learning path
 
 ### [`Tutorial: ContosoPizzaSqLite`](./ContosoPizzaSQLite)
   >* `Persist and retrieve relational data with Entity Framework Core`
