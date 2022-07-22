@@ -5,11 +5,12 @@ Experiences with some parts of C# and .NET to learn new things and to understand
 ## Experimentations
 - [BankAccount](./BankAccount)
   - `OOP C# pratice, using MS C# and .NET learning examples.`
+  - `Status: completed`
 - [Conversor de Moedas](./ConversorMoedas)
   - `First alpha version working OK in production`
   - `Still needs error checking and code cleaning`
 - [pre_pos_incremento](./pre_pos_incremento)
-  - `Working as expected`
+    - `Status: completed`
 - [Tutorial: ContosoPizza study case](./ContosoPizza)
   - `Creating a cross-platform RESTful service by using ASP.NET Core web API controllers with .NET and C#`
   - [Microsoft Tutorial link](https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/1-introduction)
