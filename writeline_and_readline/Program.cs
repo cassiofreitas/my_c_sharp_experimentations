@@ -7,8 +7,6 @@ internal class Program
     private static void Main(string[] args)
     {
         var choiceExit = 'N';
-        var valorMoedaConverterDe = 0;
-        var valorMoedaConvertida = 0;
         var moedaConverterDe = 0;
         var moedaConverterPara = 0;
 
