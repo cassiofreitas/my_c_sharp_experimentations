@@ -15,6 +15,10 @@ Experiences with some parts of C# and .NET to learn new things and to understand
   >* `Status:` **finished**
   >* [Microsoft Tutorial link](https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/1-introduction)
 
+### [Tutorial: PizzaStore - Web Minimal API](./PizzaStore)
+  >* `Create a web minimal web API`
+  >* `Status:` **finished**
+
 ### [Tutorial: Create a complex data model - ASP.NET MVC with EF Core](./)
   >* Create a complex data model - ASP.NET MVC with EF Core
   >* `Status:` *queued*
