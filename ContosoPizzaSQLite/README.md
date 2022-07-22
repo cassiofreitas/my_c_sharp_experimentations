@@ -1,10 +1,13 @@
 # Hi Microsoft
- - I am testing this really great code. :-)
- - I stopped here: [Next step: scaffold entity models from an existing db](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/5-test-db-operations)
 
- - Sure I will try also this one
-   - [Complex data model with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model?view=aspnetcore-6.0)
+>### [`Tutorial: Take your first steps with C#`](./)
+  >* *`in browser`* training; coding and testing directly *in browser*.
+  >* `Persist and retrieve relational data with Entity Framework Core`.
+  >* `Status`: *in progress*
+  >* [Microsoft link](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/)
 
+
+-------------
 
 # Persist and retrieve relational data with Entity Framework Core
 
