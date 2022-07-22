@@ -1,3 +1,11 @@
+# Hi Microsoft
+ - I am testing this really great code. :-)
+ - I stopped here: [Next step: scaffold entity models from an existing db](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/5-test-db-operations)
+
+ - Sure I will try also this one
+   - [Complex data model with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model?view=aspnetcore-6.0)
+
+
 # Persist and retrieve relational data with Entity Framework Core
 
 Hello, friend! You've found the sample code repository for a [Microsoft Learn module](https://docs.microsoft.com/learn/modules/persist-data-ef-core)! You'll find the finished solution on [this branch](https://github.com/MicrosoftDocs/mslearn-persist-data-ef-core/tree/solution-sample).

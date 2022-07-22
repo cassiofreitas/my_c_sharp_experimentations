@@ -36,7 +36,6 @@ public class PizzaController : ControllerBase
         }
     }
 
-
     [HttpPost]
     public IActionResult Create(Pizza newPizza)
     {
