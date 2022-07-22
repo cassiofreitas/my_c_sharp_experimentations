@@ -4,7 +4,7 @@ Experiences with some parts of C# and .NET to learn new things and to understand
 
 ## Experimentations
 
-### [`Tutorial:Module:ContosoPizzaSqLite`](./ContosoPizzaSQLite)
+### [`Tutorial: ContosoPizzaSqLite`](./ContosoPizzaSQLite)
   >* `Persist and retrieve relational data with Entity Framework Core`
   >* `It uses SqLite`
   >* `Status:` **finished**
