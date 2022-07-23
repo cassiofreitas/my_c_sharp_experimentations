@@ -6,50 +6,44 @@ Everything that I study and learn, related do Microsoft technology is here.
 
 --------------
 
-## My learning path
+# My learning path
 
-### [`Tutorial: ContosoPizzaSqLite`](./ContosoPizzaSQLite)
+### **[`Tutorial: ContosoPizzaSqLite`](./ContosoPizzaSQLite)** *(finished)*
   >* `Persist and retrieve relational data with Entity Framework Core`
   >* `It uses SqLite`
-  >* `Status:` **finished**
   >* [Microsoft Tutorial link](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/)
 
-### [Tutorial: ContosoPizza](./ContosoPizza)
+### **[Tutorial: ContosoPizza](./ContosoPizza)** *(finished)*
   >* `Create a web API with ASP.NET Core controllers`
-  >* `Status:` **finished**
   >* [Microsoft Tutorial link](https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/1-introduction)
 
-### [Tutorial: PizzaStore - Web Minimal API](./PizzaStore)
+### **[Tutorial: PizzaStore - Web Minimal API](./PizzaStore)** *(finished)*
   >* `Create a web minimal web API`
-  >* `Status:` **finished**
 
-### [Tutorial: Create a complex data model - ASP.NET MVC with EF Core](./)
+### **[Tutorial: Create a complex data model-ASP.NET MVC with EF Core](./)** *(queued)*
   >* Create a complex data model - ASP.NET MVC with EF Core
-  >* `Status:` *queued*
   >* [Microsoft Tutorial link](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model?view=aspnetcore-6.0)
 
-### [Tutorial: Take your first steps with C#](./)
+### **[Tutorial: Take your first steps with C#](./)** *(in progress)*
   >* `This is an ` *in browser* `tutorial`.
-  >* `Status:` *queued*
   >* [Microsoft Tutorial link](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
-
-### [BankAccount](./BankAccount)
+  
+### **[BankAccount](./BankAccount)** *(finished)*
   >* `OOP C# pratice, using MS C# and .NET learning examples.`
-  >* `Status:` **completed**
 
-### [Conversor de Moedas](./ConversorMoedas)
+### **[Conversor de Moedas](./ConversorMoedas)** *(in progress)*
   >* While studying C#, I produced this code to exercise classes and lists.
   >* `Status:` *working; needs enhances, error checking and code cleaning; and a SqLite database*.
 
-### [pre_pos_incremento](./pre_pos_incremento)
+### **[pre_pos_incremento](./pre_pos_incremento)** *(finished)*
   >* Just testing how pre and pos increment works in C#
-  >* `Status:` **completed**
 
-### [tuples_and_hashtables](./tuples_and_hashtables)
-  >* `Status:` *in progress*
+### **[tuples_and_hashtables](./tuples_and_hashtables)** *(in progress)*
+  >* Learning how to use these data structures
 
-### [writeline_and_readline](./writeline_and_readline)
-  >* `Status:` *in progress*
+### **[writeline_and_readline](./writeline_and_readline)** *(in progress)*
+  >* Learning more details about string format and readline from files
+
 -------------------------------------
 
 
