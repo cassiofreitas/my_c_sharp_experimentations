@@ -1,9 +1,7 @@
 # Hi Microsoft
 
->### [`Tutorial: Take your first steps with C#`](./)
-  >* *`in browser`* training; coding and testing directly *in browser*.
+>### [`Tutorial: Entity Framework  Core + SqLite`](./) *(finished)*
   >* `Persist and retrieve relational data with Entity Framework Core`.
-  >* `Status`: *in progress*
   >* [Microsoft link](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/)
 
 
